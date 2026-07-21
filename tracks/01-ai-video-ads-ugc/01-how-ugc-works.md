@@ -108,8 +108,8 @@ The honest tradeoff: local is genuinely free per-generation once set up, but the
 
 ## Outputs
 
-- `outputs/ugc-script-template.md` — the hook/pitch/proof/CTA script structure as a fill-in-the-blank template.
-- `outputs/ad-brief-checklist.md` — a checklist for briefing yourself (or a client) before producing a batch.
+- [`outputs/ugc-script-template.md`](outputs/ugc-script-template.md) — the hook/pitch/proof/CTA script structure as a fill-in-the-blank template.
+- [`outputs/ad-brief-checklist.md`](outputs/ad-brief-checklist.md) — a checklist for briefing yourself (or a client) before producing a batch.
 
 ---
 

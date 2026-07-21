@@ -65,7 +65,7 @@ Not applicable — this module is an analysis skill, not a production technique.
 
 ## Outputs
 
-- `outputs/teardown-worksheet.md` — the five-layer teardown structure as a fill-in worksheet.
+- [`outputs/teardown-worksheet.md`](outputs/teardown-worksheet.md) — the five-layer teardown structure as a fill-in worksheet.
 
 ---
 

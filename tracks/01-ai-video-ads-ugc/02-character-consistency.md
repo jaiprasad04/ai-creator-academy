@@ -73,7 +73,7 @@ Be honest with yourself about how many times you'll reuse this character. Refere
 
 ## Outputs
 
-- `outputs/character-consistency-checklist.md` — what to check for drift before delivering a batch to a client.
+- [`outputs/character-consistency-checklist.md`](outputs/character-consistency-checklist.md) — what to check for drift before delivering a batch to a client.
 
 ---
 

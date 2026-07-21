@@ -73,7 +73,7 @@ Only the hook and opening angle change — product demo, proof section, and CTA 
 
 ## Outputs
 
-- `outputs/batch-matrix-template.md` — a fill-in template for planning hook × angle combinations before production.
+- [`outputs/batch-matrix-template.md`](outputs/batch-matrix-template.md) — a fill-in template for planning hook × angle combinations before production.
 
 ---
 

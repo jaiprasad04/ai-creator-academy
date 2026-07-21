@@ -68,8 +68,8 @@ Not applicable in the tool sense — this module is business skills, not a produ
 
 ## Outputs
 
-- `outputs/outreach-template.md` — cold outreach message template for pitching project-based work.
-- `outputs/retainer-proposal-template.md` — a fill-in retainer pitch structure.
+- [`outputs/outreach-template.md`](outputs/outreach-template.md) — cold outreach message template for pitching project-based work.
+- [`outputs/retainer-proposal-template.md`](outputs/retainer-proposal-template.md) — a fill-in retainer pitch structure.
 
 ---
 
