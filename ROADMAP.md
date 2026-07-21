@@ -55,15 +55,15 @@ Status key: ✅ live · 🚧 in progress · ⬜ coming soon
 | 4 | Monetization Tiers by Follower Count | ✅ |
 | 5 | Agency Case Study: Small-Team Economics | ✅ |
 
-## Track 6 — AI Audio & Music ⬜
+## Track 6 — AI Audio & Music ✅
 
 | # | Module | Status |
 |---|---|---|
-| 1 | Voice Cloning & TTS Basics | ⬜ |
-| 2 | AI Dubbing & Translation | ⬜ |
-| 3 | Podcast Production with AI | ⬜ |
-| 4 | AI Music & Singing Voice Conversion | ⬜ |
-| 5 | Selling Voice/Audio Services | ⬜ |
+| 1 | Voice Cloning & TTS Basics | ✅ |
+| 2 | AI Dubbing & Translation | ✅ |
+| 3 | Podcast Production & Audio Cleaning | ✅ |
+| 4 | AI Music & Sound Effects | ✅ |
+| 5 | Singing Voice Conversion & Vocal Synthesis | ✅ |
 
 ## Track 7 — AI Product Photography / E-commerce ⬜
 
