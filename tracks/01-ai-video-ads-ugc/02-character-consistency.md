@@ -41,9 +41,20 @@ Say you generated an anchor image for a recurring "creator" — a woman in her l
 
 **With reference-image conditioning:** pass the anchor image alongside each new prompt ("same woman, now in a car, holding a phone" — describing only what changes). Face shape, freckles, and apparent age stay locked because the model is conditioning on the actual image, not re-guessing from text. This is the default that would work for a one-off GripMount client ad.
 
-**Drift-check in practice:** generate the anchor woman in 3 settings — car interior, kitchen counter, walking outside — using reference-image conditioning. Line up the 3 results side by side and check: same face shape? Same freckle pattern? If shot 3 (outside, different lighting) shows a noticeably rounder face or the freckles have vanished, that's drift — tighten the prompt to describe *only* the setting and lighting, and let the reference image carry every detail about the face itself.
+**Drift-check, actually run** — the anchor woman generated in 3 real settings (car interior, kitchen counter, walking outside), using the anchor image as a reference input to an *edit*-capable image model rather than a plain text prompt:
 
-**When it's worth training a LoRA instead:** if this same "creator" is going to front dozens of ads over months (not just one GripMount batch), a one-time LoRA training pass on 15-20 photos of her locks the identity so tightly that drift stops being a per-shot risk at all — worth the setup once reuse, not one-off work, is the plan.
+<p align="center">
+<img src="outputs/examples/character-drift-car.jpg" alt="Same character, car interior" width="160">
+<img src="outputs/examples/character-drift-kitchen.jpg" alt="Same character, kitchen counter" width="160">
+<img src="outputs/examples/character-drift-outside.jpg" alt="Same character, walking outside" width="160">
+</p>
+<p align="center"><sub>Same reference image fed into 3 separate generations — only the setting/prompt changed.</sub></p>
+
+**What actually happened:** no meaningful drift across any of the 3 — face shape, freckle pattern, and hair all hold up even in the outdoor shot with completely different lighting than the anchor. This is the real result of reference-image conditioning done right: pass the anchor image as an *edit* input (not just describe the character in a fresh text prompt) and let the prompt describe only the setting. If you *do* see drift in your own attempts — a rounder jaw, vanished freckles, a different apparent age — it's usually because the prompt re-described facial features instead of only the surroundings, or the reference image wasn't actually passed to an edit-capable endpoint.
+
+**When it's worth training a LoRA instead:** if this same "creator" is going to front dozens of ads over months (not just one GripMount batch), a one-time LoRA training pass on 15-20 photos of her locks the identity in even more tightly and removes any per-shot risk at all — worth the setup once reuse, not one-off work, is the plan.
+
+*How the 3 shots above were produced:* uploaded the anchor image once via muapi's `upload_file`, then made 3 separate calls to **`nano-banana-2-edit`** ($0.06/image), passing that same uploaded image as the reference (`images_list`) each time with a prompt describing only the new setting ("same woman as in the reference image, now sitting in a car...") — never re-describing the face itself. Other reference-conditioned edit models that work the same way: `nano-banana-pro-edit`, `gpt-image-2-image-to-image`.
 
 ## Compare Tools
 
