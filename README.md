@@ -59,11 +59,11 @@ Paid communities teaching this (Skool/Whop-style, $47–$97/mo) already cluster 
 
 | # | Module |
 |:---:|---|
-| 1 | [How AI UGC Actually Works](tracks/01-ai-video-ads-ugc/01-how-ugc-works/module.md) |
-| 2 | [Character & Face Consistency](tracks/01-ai-video-ads-ugc/02-character-consistency/module.md) |
-| 3 | [Building a 10-Ad Batch](tracks/01-ai-video-ads-ugc/03-building-an-ad-batch/module.md) |
-| 4 | [Pricing & Selling UGC Ads](tracks/01-ai-video-ads-ugc/04-pricing-and-selling-ugc/module.md) |
-| 5 | [Case Study Teardown](tracks/01-ai-video-ads-ugc/05-case-study-teardown/module.md) |
+| 1 | [How AI UGC Actually Works](tracks/01-ai-video-ads-ugc/01-how-ugc-works.md) |
+| 2 | [Character & Face Consistency](tracks/01-ai-video-ads-ugc/02-character-consistency.md) |
+| 3 | [Building a 10-Ad Batch](tracks/01-ai-video-ads-ugc/03-building-an-ad-batch.md) |
+| 4 | [Pricing & Selling UGC Ads](tracks/01-ai-video-ads-ugc/04-pricing-and-selling-ugc.md) |
+| 5 | [Case Study Teardown](tracks/01-ai-video-ads-ugc/05-case-study-teardown.md) |
 
 </details>
 
@@ -132,7 +132,7 @@ See [LESSON_TEMPLATE.md](LESSON_TEMPLATE.md) for the full template used to write
 ```bash
 git clone https://github.com/Anil-matcha/ai-creator-academy.git
 cd ai-creator-academy
-open tracks/01-ai-video-ads-ugc/01-how-ugc-works/module.md
+open tracks/01-ai-video-ads-ugc/01-how-ugc-works.md
 ```
 
 ### Prerequisites

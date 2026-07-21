@@ -1,6 +1,6 @@
 # Module Template
 
-Every module is one `module.md` file inside `tracks/<NN>-<track-slug>/<NN>-<module-slug>/`, following this exact structure. Copy this file's shape when writing a new one.
+Every module is one `<NN>-<module-slug>.md` file directly inside `tracks/<NN>-<track-slug>/` — no per-module subfolder, so browsing a track shows every module's content one click away. A matching `<NN>-<module-slug>.app.json` sits next to it, and any reusable artifacts go in the track's shared `outputs/` folder. Copy this file's shape when writing a new one.
 
 ```markdown
 # [Module Title]
@@ -63,4 +63,4 @@ script, a checklist.]
 - Follow the six beats in order: Problem → Concept → Do It → Compare Tools → Launch It → Exercises. Don't skip "Compare Tools" or "Launch It" — they're what differentiates this from a typical "how it works" tutorial.
 - **Never name specific competitor course platforms, creators, or "gurus"** as sources, even when they're the actual demand evidence — cite the pattern ("X-style income claims"), not the source.
 - **Show your real numbers** wherever a monetization claim is made — cite a verifiable source or mark it as an estimate, never state an unverifiable income figure as fact.
-- Every module points at an app in `app.json` (`status: "existing"` with a `repo_link`, or `status: "needed"`) — never duplicate app code inline in the module folder.
+- Every module points at an app in its `<NN>-<module-slug>.app.json` (`status: "existing"` with a `repo_link`, or `status: "needed"`) — never duplicate app code inline.

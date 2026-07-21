@@ -4,9 +4,9 @@ Contributions of new modules, fixes to existing ones, or new tracks are welcome.
 
 ## Adding a module to an existing track
 
-1. Copy the structure in [LESSON_TEMPLATE.md](LESSON_TEMPLATE.md) into a new `module.md` under the right numbered folder (`tracks/<NN>-<track-slug>/<NN>-<module-slug>/`).
-2. Include an `app.json` (`{"status": "existing", "repo_link": "..."}` if a working app already demonstrates this, or `{"status": "needed", "repo_link": null}` if not).
-3. Add an `outputs/` folder with any reusable artifact the module produces (a template, checklist, or script).
+1. Copy the structure in [LESSON_TEMPLATE.md](LESSON_TEMPLATE.md) into a new `<NN>-<module-slug>.md` file directly under the track folder (`tracks/<NN>-<track-slug>/<NN>-<module-slug>.md`) — no per-module subfolder.
+2. Add a matching `<NN>-<module-slug>.app.json` next to it (`{"status": "existing", "repo_link": "..."}` if a working app already demonstrates this, or `{"status": "needed", "repo_link": null}` if not).
+3. Add any reusable artifact the module produces (a template, checklist, or script) to the track's shared `outputs/` folder.
 4. Update [ROADMAP.md](ROADMAP.md) to mark the module's status.
 
 ## Proposing a new track
