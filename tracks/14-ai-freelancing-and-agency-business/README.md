@@ -1,4 +1,4 @@
-# Track 11: AI Freelancing & Agency Business
+# Track 14: AI Freelancing & Agency Business
 
 > Everything the other tracks assume you already know: pricing, contracts, client acquisition, and scaling from freelancer to agency.
 

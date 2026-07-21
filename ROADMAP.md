@@ -14,74 +14,74 @@ Status key: ✅ live · 🚧 in progress · ⬜ coming soon
 | 4 | Pricing & Selling UGC Ads | ✅ |
 | 5 | Case Study Teardown | ✅ |
 
-## Track 2 — AI Filmmaking ⬜
+## Track 2 — AI Filmmaking ✅
 
 | # | Module | Status |
 |---|---|---|
-| 1 | Screenplay & Story Generation | ⬜ |
-| 2 | Storyboarding & Shot Planning | ⬜ |
-| 3 | Camera Movement & Cinematography Prompts | ⬜ |
-| 4 | Assembling a Short Film | ⬜ |
-| 5 | Selling Short-Form Films (festivals, sponsors, licensing) | ⬜ |
+| 1 | Screenplay & Story Generation | ✅ |
+| 2 | Storyboarding & Shot Planning | ✅ |
+| 3 | Camera Movement & Cinematography Prompts | ✅ |
+| 4 | Assembling a Short Film | ✅ |
+| 5 | Selling Short-Form Films (festivals, sponsors, licensing) | ✅ |
 
-## Track 3 — Faceless AI Channels ⬜
-
-| # | Module | Status |
-|---|---|---|
-| 1 | Niche Selection & Script Pipeline | ⬜ |
-| 2 | Duration-Matched Narration & Pacing | ⬜ |
-| 3 | Honest RPM & Earnings Math | ⬜ |
-| 4 | Scaling to Multiple Channels | ⬜ |
-| 5 | Monetization Ladder | ⬜ |
-
-## Track 4 — AI Content Factories ⬜
+## Track 3 — Faceless AI Channels ✅
 
 | # | Module | Status |
 |---|---|---|
-| 1 | The Idea → Script → Storyboard → Video → Voice → Music → Captions → Publish Pipeline | ⬜ |
-| 2 | Building a TikTok/Reels Factory | ⬜ |
-| 3 | Building a YouTube Shorts Factory | ⬜ |
-| 4 | AI Thumbnail Design | ⬜ |
-| 5 | Batching & Scheduling at Volume | ⬜ |
-| 6 | Selling Content-Factory Output as a Service | ⬜ |
+| 1 | Niche Selection & Script Pipeline | ✅ |
+| 2 | Duration-Matched Narration & Pacing | ✅ |
+| 3 | Honest RPM & Earnings Math | ✅ |
+| 4 | Scaling to Multiple Channels | ✅ |
+| 5 | Monetization Ladder | ✅ |
 
-## Track 5 — AI Avatars & Influencers ⬜
-
-| # | Module | Status |
-|---|---|---|
-| 1 | Building a Consistent AI Character | ⬜ |
-| 2 | Character to Content Pipeline | ⬜ |
-| 3 | Monetization Tiers by Follower Count | ⬜ |
-| 4 | Agency Case Study: Small-Team Economics | ⬜ |
-| 5 | Platform Economics & Fee Disclosure | ⬜ |
-
-## Track 6 — AI Audio & Music ⬜
+## Track 4 — AI Content Factories ✅
 
 | # | Module | Status |
 |---|---|---|
-| 1 | Voice Cloning & TTS Basics | ⬜ |
-| 2 | AI Dubbing & Translation | ⬜ |
-| 3 | Podcast Production with AI | ⬜ |
-| 4 | AI Music & Singing Voice Conversion | ⬜ |
-| 5 | Selling Voice/Audio Services | ⬜ |
+| 1 | The Idea → Script → Storyboard → Video → Voice → Music → Captions → Publish Pipeline | ✅ |
+| 2 | Building a TikTok/Reels Factory | ✅ |
+| 3 | Building a YouTube Shorts Factory | ✅ |
+| 4 | AI Thumbnail Design | ✅ |
+| 5 | Batching & Scheduling at Volume | ✅ |
+| 6 | Selling Content-Factory Output as a Service | ✅ |
 
-## Track 7 — AI Product Photography / E-commerce ⬜
-
-| # | Module | Status |
-|---|---|---|
-| 1 | Product Shots Without a Photographer | ⬜ |
-| 2 | Before/After Conversion Case Studies | ⬜ |
-| 3 | Selling as a Productized Service | ⬜ |
-| 4 | Batch Workflows for Catalogs | ⬜ |
-
-## Track 8 — AI Fashion & Virtual Try-On ⬜
+## Track 5 — AI Avatars & Influencers ✅
 
 | # | Module | Status |
 |---|---|---|
-| 1 | Virtual Try-On Basics (garment on model/customer photo) | ⬜ |
-| 2 | Consistent Model/Body Representation | ⬜ |
-| 3 | Selling to Fashion E-commerce Brands | ⬜ |
-| 4 | Beauty Content (makeup/hair try-on) as an Adjacent Service | ⬜ |
+| 1 | Building a Consistent AI Character | ✅ |
+| 2 | Character to Content Pipeline | ✅ |
+| 3 | Voice Cloning & Dialogue | ✅ |
+| 4 | Monetization Tiers by Follower Count | ✅ |
+| 5 | Agency Case Study: Small-Team Economics | ✅ |
+
+## Track 6 — AI Audio & Music ✅
+
+| # | Module | Status |
+|---|---|---|
+| 1 | Voice Cloning & TTS Basics | ✅ |
+| 2 | AI Dubbing & Translation | ✅ |
+| 3 | Podcast Production & Audio Cleaning | ✅ |
+| 4 | AI Music & Sound Effects | ✅ |
+| 5 | Singing Voice Conversion & Vocal Synthesis | ✅ |
+
+## Track 7 — AI Product Photography / E-commerce ✅
+
+| # | Module | Status |
+|---|---|---|
+| 1 | Product Shots Without a Photographer | ✅ |
+| 2 | Before/After Conversion Case Studies | ✅ |
+| 3 | Selling as a Productized Service | ✅ |
+| 4 | Batch Workflows for Catalogs | ✅ |
+
+## Track 8 — AI Fashion & Virtual Try-On ✅
+
+| # | Module | Status |
+|---|---|---|
+| 1 | Garment Try-on for Fashion E-commerce | ✅ |
+| 2 | High-converting Studio Lookbooks | ✅ |
+| 3 | Sizing & Layout Consistency | ✅ |
+| 4 | Before/After Conversion Cases | ✅ |
 
 ## Track 9 — AI Real Estate (Virtual Staging) ⬜
 

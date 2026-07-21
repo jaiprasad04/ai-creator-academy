@@ -1,4 +1,4 @@
-# Track 5: AI Real Estate (Virtual Staging)
+# Track 9: AI Real Estate (Virtual Staging)
 
 > Stage a listing in minutes, not days.
 
