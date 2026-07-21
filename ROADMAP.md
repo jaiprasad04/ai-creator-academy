@@ -65,14 +65,14 @@ Status key: ✅ live · 🚧 in progress · ⬜ coming soon
 | 4 | AI Music & Sound Effects | ✅ |
 | 5 | Singing Voice Conversion & Vocal Synthesis | ✅ |
 
-## Track 7 — AI Product Photography / E-commerce ⬜
+## Track 7 — AI Product Photography / E-commerce ✅
 
 | # | Module | Status |
 |---|---|---|
-| 1 | Product Shots Without a Photographer | ⬜ |
-| 2 | Before/After Conversion Case Studies | ⬜ |
-| 3 | Selling as a Productized Service | ⬜ |
-| 4 | Batch Workflows for Catalogs | ⬜ |
+| 1 | Product Shots Without a Photographer | ✅ |
+| 2 | Before/After Conversion Case Studies | ✅ |
+| 3 | Selling as a Productized Service | ✅ |
+| 4 | Batch Workflows for Catalogs | ✅ |
 
 ## Track 8 — AI Fashion & Virtual Try-On ⬜
 
