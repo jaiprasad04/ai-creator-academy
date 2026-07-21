@@ -1,4 +1,4 @@
-# Track 2: Faceless AI Channels
+# Track 3: Faceless AI Channels
 
 > Build a content channel with no camera, no face, and no crew.
 

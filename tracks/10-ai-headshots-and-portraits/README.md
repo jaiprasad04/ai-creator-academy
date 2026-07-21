@@ -1,4 +1,4 @@
-# Track 6: AI Headshots & Portraits
+# Track 10: AI Headshots & Portraits
 
 > The easiest on-ramp — and the hardest niche to stand out in.
 

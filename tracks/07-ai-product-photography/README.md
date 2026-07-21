@@ -1,4 +1,4 @@
-# Track 4: AI Product Photography / E-commerce
+# Track 7: AI Product Photography & E-commerce
 
 > Replace the studio shoot and sell the result.
 

@@ -1,4 +1,4 @@
-# Track 3: AI Avatars & Influencers
+# Track 5: AI Avatars & Influencers
 
 > Build a consistent AI character and turn it into a business.
 
