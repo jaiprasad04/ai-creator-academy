@@ -56,7 +56,7 @@ Mapped to the structure:
 
 **The clip below is real, not a mockup** — the anchor image from Module 2 animated into a short talking clip from the hook line above, so you can see what a first-pass output actually looks like before any editing/b-roll/captions are added:
 
-<p align="center"><video src="outputs/examples/gripmount-hook-clip.mp4" controls width="280"></video></p>
+<p align="center"><a href="outputs/examples/gripmount-hook-clip.mp4"><img src="outputs/examples/character-anchor.jpg" alt="Click to play: generated talking clip" width="220"></a><br><a href="outputs/examples/gripmount-hook-clip.mp4">▶ Watch the clip (5 sec, .mp4)</a></p>
 
 <p align="center"><i>An unedited first pass — lip movement is decent but not perfect, which is normal at this stage. Cutting in b-roll during the pitch/proof section (Do It, step 4) is what usually hides this kind of imperfection in a finished ad.</i></p>
 
