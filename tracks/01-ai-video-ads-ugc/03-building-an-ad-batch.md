@@ -43,6 +43,17 @@ Continuing the GripMount ad (Module 1) with the consistent "creator" from Module
 
 Only the hook and opening angle change — product demo, proof section, and CTA stay identical across all 5, so if one ad wins, you know it's the hook, not some other variable.
 
+**Ad 1 (Module 1) vs. Ad 2 and Ad 3, actually generated** — same anchor character (Module 2), same product, only the opening line changes. This is what "batching" looks like in practice, not just a table of hooks:
+
+<p align="center">
+<img src="outputs/examples/gripmount-hook-clip.gif" alt="Ad 1: durability/surprise hook" width="180">
+<img src="outputs/examples/gripmount-ad2-problem-first.gif" alt="Ad 2: problem-first hook" width="180">
+<img src="outputs/examples/gripmount-ad3-pov.gif" alt="Ad 3: POV format hook" width="180">
+</p>
+<p align="center"><sub>Ad 1: <a href="outputs/examples/gripmount-hook-clip.mp4">mp4</a> · Ad 2: <a href="outputs/examples/gripmount-ad2-problem-first.mp4">mp4</a> · Ad 3: <a href="outputs/examples/gripmount-ad3-pov.mp4">mp4</a> (with audio; GIFs above are silent previews)</sub></p>
+
+Producing these 3 took re-using the same uploaded anchor image across 3 separate `seedance-2-image-to-video-fast` calls, changing only the prompt's dialogue line each time (~$0.75/clip) — this is exactly what "batch-produce voice and avatar generation" in Do It, step 5 means: the character and product stay fixed, only the script text changes per call.
+
 **How to actually read the test** once these are running as paid social ads: check **hook rate** first (the % of viewers who watch past the first 2-3 seconds) — an ad with a weak hook rate is dead regardless of anything downstream, so don't bother comparing CPA on it yet. Only compare cost-per-result (CPA/ROAS) across ads that already have a decent hook rate; a low CPA on very little spend is noise, not a signal. A common rule of thumb: run each variant long enough to clear a few thousand impressions (roughly 3-4 days at a modest daily budget per variant) before calling a winner — long enough to get past the platform's initial learning phase, short enough not to waste spend on an obvious loser.
 
 **Labeling for the client:** deliver the batch with each ad tagged by which single thing it varies ("Ad 2 = problem-first hook") so whoever's running the media buy can read the result back to a specific creative decision, not just "ad 2 did better."
