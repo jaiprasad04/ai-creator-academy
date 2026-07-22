@@ -31,11 +31,16 @@ A fixed **seed** (the random-number starting point for generation) also helps wi
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/character-anchor.jpg" alt="Master Profile" width="220">
+<img src="templates/examples/character-drift-car.jpg" alt="Consistent Render" width="220">
+<img src="templates/examples/gripmount-hook-clip.gif" alt="Consistent Character Motion (I2V)" width="220">
+</p>
+<p align="center"><sub>Master Character (Left) ──► Car Interior Render (Center) ──► Image-to-Video Motion (Right) · <a href="templates/examples/gripmount-hook-clip.mp4">MP4</a></sub></p>
+
 Say you generated an anchor image for a recurring "creator" — a woman in her late-20s, front-facing, neutral lighting, brown hair, freckles across her nose — to front your GripMount ads (Module 1) across a whole batch.
 
-<p align="center"><img src="templates/examples/character-anchor.jpg" alt="AI-generated anchor character portrait: woman, late 20s, brown hair, freckles, neutral studio lighting" width="360"></p>
 
-<p align="center"><i>This is an actual anchor image — generated once, then reused as the reference for every subsequent shot instead of re-describing the character in text.</i></p>
 
 **Without a reference image (prompt-only):** re-typing "woman, late 20s, brown hair, freckles" for each new shot produces a *different* woman each time — same rough description, but the model fills in face shape, exact hair length, and freckle placement differently every generation. Across 5 shots you'd likely get 5 recognizably different people.
 
@@ -43,12 +48,7 @@ Say you generated an anchor image for a recurring "creator" — a woman in her l
 
 **Drift-check, actually run** — the anchor woman generated in 3 real settings (car interior, kitchen counter, walking outside), using the anchor image as a reference input to an *edit*-capable image model rather than a plain text prompt:
 
-<p align="center">
-<img src="templates/examples/character-drift-car.jpg" alt="Same character, car interior" width="160">
-<img src="templates/examples/character-drift-kitchen.jpg" alt="Same character, kitchen counter" width="160">
-<img src="templates/examples/character-drift-outside.jpg" alt="Same character, walking outside" width="160">
-</p>
-<p align="center"><sub>Same reference image fed into 3 separate generations — only the setting/prompt changed.</sub></p>
+
 
 **What actually happened:** no meaningful drift across any of the 3 — face shape, freckle pattern, and hair all hold up even in the outdoor shot with completely different lighting than the anchor. This is the real result of reference-image conditioning done right: pass the anchor image as an *edit* input (not just describe the character in a fresh text prompt) and let the prompt describe only the setting. If you *do* see drift in your own attempts — a rounder jaw, vanished freckles, a different apparent age — it's usually because the prompt re-described facial features instead of only the surroundings, or the reference image wasn't actually passed to an edit-capable endpoint.
 

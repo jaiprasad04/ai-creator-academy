@@ -55,7 +55,15 @@ Read your finished draft script out loud. If you stumble on a sentence, or if it
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/faceless-anchor.jpg" alt="Faceless Channel Visual Anchor" width="240">
+<img src="templates/examples/faceless-niche-intro.gif" alt="Faceless Niche Video Loop (I2V)" width="240">
+</p>
+<p align="center"><sub>Faceless Channel Image (Left) ──► Image-to-Video Motion Loop (Right) · <a href="templates/examples/faceless-niche-intro.mp4">MP4</a></sub></p>
+
 **Niche Evaluation & Script for "Automate Smarter" (SaaS Automation Niche)**
+
+
 
 * **Niche Score:** 22/25 (High CPM, software affiliate programs, high-value demographic).
 * **Topic:** Automated Invoice Processing.
@@ -81,9 +89,7 @@ Read your finished draft script out loud. If you stumble on a sentence, or if it
 
 **The clip below is real, not a mockup** — the anchor image generated via `nano-banana-2` (9:16 vertical aspect ratio) and animated into a short vertical video clip using `seedance-2-image-to-video-fast` from the script excerpt above, so you can see what a first-pass output actually looks like:
 
-<p align="center"><img src="templates/examples/faceless-clip.gif" alt="Generated vertical visual clip (silent GIF preview)" width="158"></p>
 
-<p align="center"><a href="templates/examples/faceless-clip.mp4">▶ Watch the original (.mp4)</a> — GitHub can't play video inline in a README, so the GIF above is a silent preview; the linked file has the high-quality render.</p>
 
 <p align="center"><i>An unedited first pass — the image represents a high-concept visual of the invoice processing error, dynamically animated by the video engine for high-retention engagement.</i></p>
 

@@ -61,7 +61,15 @@ Select all video clips on V1. Add an adjustment layer over the entire timeline a
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/the-last-signal-poster.jpg" alt="Key Art Poster" width="280">
+<img src="templates/examples/last-signal-assembly-clip.gif" alt="Scene Assembly Video Motion (I2V)" width="280">
+</p>
+<p align="center"><sub>Film Key Art (Left) ──► Image-to-Video Film Assembly Motion (Right) · <a href="templates/examples/last-signal-assembly-clip.mp4">MP4</a></sub></p>
+
 **Timeline Assembly for "The Last Signal" Scene 1**
+
+
 
 Here is the track layout inside the editing timeline for the first 12 seconds:
 

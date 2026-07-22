@@ -53,7 +53,15 @@ Import the converted singing track back into your audio editor. Add a subtle pla
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/singing-vocal-studio.jpg" alt="Singing Vocal Studio" width="280">
+<img src="templates/examples/singing-vocal-studio-clip.gif" alt="Vocal Studio Motion (I2V)" width="280">
+</p>
+<p align="center"><sub>Singing Studio Image (Left) ──► Image-to-Video Studio Bokeh Motion (Right) · <a href="templates/examples/singing-vocal-studio-clip.mp4">MP4</a></sub></p>
+
 **Creating a Theme Song Vocal (Male Guide to Emma Avatar)**
+
+
 
 * **Guide Recording:** A male editor recorded a basic guide vocal singing: *"Automate your SaaS..."* in key. Pitch correction snapped the notes to C-Major.
 * **RVC Setup:**

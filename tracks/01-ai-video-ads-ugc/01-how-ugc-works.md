@@ -39,6 +39,12 @@ The reason this pipeline matters more than any single "best model" is that each 
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/character-anchor.jpg" alt="UGC Character Anchor" width="240">
+<img src="templates/examples/gripmount-hook-clip.gif" alt="UGC Hook Video Motion (I2V)" width="240">
+</p>
+<p align="center"><sub>AI UGC Character Image (Left) ──► Image-to-Video Motion Loop (Right) · <a href="templates/examples/gripmount-hook-clip.mp4">MP4</a></sub></p>
+
 Product: a $28 magnetic phone car mount ("GripMount").
 
 **Script** (hook/pitch/proof/CTA, ~28 seconds spoken):
@@ -57,9 +63,7 @@ Mapped to the structure:
 
 **The clip below is real, not a mockup** — the anchor image from Module 2 animated into a short talking clip from the hook line above, so you can see what a first-pass output actually looks like before any editing/b-roll/captions are added:
 
-<p align="center"><img src="templates/examples/gripmount-hook-clip.gif" alt="Generated talking clip (silent GIF preview)" width="280"></p>
 
-<p align="center"><a href="templates/examples/gripmount-hook-clip.mp4">▶ Watch the original with audio (.mp4)</a> — GitHub can't play video inline in a README, so the GIF above is a silent preview; the linked file has the actual voice.</p>
 
 <p align="center"><i>An unedited first pass — lip movement is decent but not perfect, which is normal at this stage. Cutting in b-roll during the pitch/proof section (Do It, step 4) is what usually hides this kind of imperfection in a finished ad.</i></p>
 

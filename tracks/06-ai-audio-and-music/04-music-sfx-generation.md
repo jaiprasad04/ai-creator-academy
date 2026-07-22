@@ -63,7 +63,15 @@ If your editor supports auto-ducking (e.g. Premiere Pro or CapCut):
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/ai-music-workstation.jpg" alt="Music Workstation" width="280">
+<img src="templates/examples/ai-music-workstation-clip.gif" alt="Synthesizer Visualizer Motion (I2V)" width="280">
+</p>
+<p align="center"><sub>Synthesizer Workstation Image (Left) ──► Image-to-Video Visualizer Motion (Right) · <a href="templates/examples/ai-music-workstation-clip.mp4">MP4</a></sub></p>
+
 **Sound Design for a 15-Second Vertical SaaS Ad**
+
+
 
 * **Voice Track:** Narrator speaks from 0:00 to 0:03, silences from 0:03 to 0:06 (visual demo), speaks from 0:06 to 0:15.
 * **Music Track:** generated 120 BPM tech house loop.

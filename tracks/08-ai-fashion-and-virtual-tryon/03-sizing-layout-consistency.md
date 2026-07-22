@@ -57,7 +57,15 @@ Hide the grid template layers, and export the file as WebP. Repeat this process 
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/mannequin-grid-alignment.jpg" alt="Mannequin Alignment Grid" width="280">
+<img src="templates/examples/mannequin-grid-clip.gif" alt="Alignment Grid Motion (I2V)" width="280">
+</p>
+<p align="center"><sub>Baseline Grid Alignment Image (Left) ──► Image-to-Video Grid Lighting Motion (Right) · <a href="templates/examples/mannequin-grid-clip.mp4">MP4</a></sub></p>
+
 **Aligning a 5-Item Windbreaker Collection**
+
+
 
 * **Catalog Resolution:** 1080x1350px vertical.
 * **Baseline Settings:**

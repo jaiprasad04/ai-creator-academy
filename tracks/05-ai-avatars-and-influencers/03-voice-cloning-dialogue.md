@@ -58,7 +58,15 @@ Take your script text and insert punctuation cues to match a conversational rhyt
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/avatar-recording-studio.jpg" alt="Vocal Studio" width="280">
+<img src="templates/examples/avatar-studio-clip.gif" alt="Avatar Vocal Studio Motion (I2V)" width="280">
+</p>
+<p align="center"><sub>Vocal Recording Studio (Left) ──► Image-to-Video Studio Motion (Right) · <a href="templates/examples/avatar-studio-clip.mp4">MP4</a></sub></p>
+
 **Voice Clone Training for "Emma" (Tech Influencer)**
+
+
 
 * **Audio Sourcing:** Recorded 8 minutes of clean vocal reading using a desk USB microphone inside a carpeted closet. Audio cleaned in Audacity (Noise gate applied, background hiss removed).
 * **ElevenLabs Upload:** Cloned under the name `Emma_V1`.

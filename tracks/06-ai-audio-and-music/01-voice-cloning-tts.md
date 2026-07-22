@@ -60,7 +60,15 @@ Save your ideal configurations in the cloning log.
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/voice-studio-setup.jpg" alt="Voice Studio" width="280">
+<img src="templates/examples/voice-studio-clip.gif" alt="Voice Recording Motion (I2V)" width="280">
+</p>
+<p align="center"><sub>Voice Recording Booth Image (Left) ──► Image-to-Video Studio Motion (Right) · <a href="templates/examples/rachel-vocal-cloned.mp3">Cloned MP3</a> · <a href="templates/examples/voice-studio-clip.mp4">Video MP4</a></sub></p>
+
 **Creating "Arthur" (B2B SaaS Spokesperson)**
+
+
 
 * **Training Inputs:** 7 minutes of clean, dry wav recording of an instructional SaaS guide. Normalized to -3dB peak, gate set to -50dB.
 * **Cloning Interface:** ElevenLabs IVC portal. Cloned as `Arthur_B2B_V1`.

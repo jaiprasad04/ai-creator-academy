@@ -57,7 +57,15 @@ Upon payment, open a shared folder (Google Drive or Dropbox) with the client. Se
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/agency-client-pitch.jpg" alt="Agency Pitch" width="280">
+<img src="templates/examples/agency-pitch-clip.gif" alt="Pitch Boardroom Motion (I2V)" width="280">
+</p>
+<p align="center"><sub>Agency Pitch Image (Left) ──► Image-to-Video Boardroom Presentation (Right) · <a href="templates/examples/agency-pitch-clip.mp4">MP4</a></sub></p>
+
 **Retainer Deal: "Apex Bookkeeping" Agency Agreement**
+
+
 
 * **The Client:** A local accounting firm wanting to grow their TikTok/Reels presence to source tax clients.
 * **The Deal Closed:** **$1,500/month retainer** for 30 short-form videos.

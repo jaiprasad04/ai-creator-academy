@@ -62,7 +62,16 @@ Allow the test to run for at least 14 days to capture mid-week and weekend shopp
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/coffee-before-after.jpg" alt="Coffee Bag Before/After AI Redesign" width="480">
+<br>
+<img src="templates/examples/coffee-motion.gif" alt="Coffee Product Motion Loop (I2V)" width="360">
+</p>
+<p align="center"><sub>AI Product Image Redesign (Top) ──► Image-to-Video Steam Loop (Bottom) · <a href="templates/examples/coffee-motion.mp4">MP4</a></sub></p>
+
 **Redesigning a High-End Specialty Coffee Bag Listing**
+
+
 
 * **Initial Listing Status:** The brand sold a $25 bag of coffee beans using a flat stock photograph. Average Conversion Rate was **1.8%**.
 * **Visual Redesign (Variant B):**

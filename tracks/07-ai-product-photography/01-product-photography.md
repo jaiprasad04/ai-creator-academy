@@ -57,7 +57,16 @@ Apply a color balance adjustment layer clipped to the product layer:
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/perfume-before-after.jpg" alt="Perfume Bottle Before and After AI Studio Backdrop" width="560">
+<br>
+<img src="templates/examples/perfume-motion.gif" alt="Perfume Bottle Motion Loop (I2V)" width="320">
+</p>
+<p align="center"><sub>Raw Photo vs. AI Studio Backdrop (Top) ──► Image-to-Video Reflection Loop (Bottom) · <a href="templates/examples/perfume-motion.mp4">MP4</a></sub></p>
+
 **Backdrop Shift for an Organic Aloe Vera Gel Tube**
+
+
 
 * **Source File:** A raw photo of a green plastic bottle shot on a white desk under office lighting.
 * **Isolator:** Background removed, saving only the clean green plastic container.

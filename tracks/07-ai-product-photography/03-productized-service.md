@@ -57,7 +57,15 @@ Deliver the final WebP assets to the client within the promised timeframe. Inclu
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/product-agency-studio.jpg" alt="Commercial Studio" width="280">
+<img src="templates/examples/product-agency-studio-clip.gif" alt="Product Photography Motion (I2V)" width="280">
+</p>
+<p align="center"><sub>Commercial Product Studio Image (Left) ──► Image-to-Video Studio Lighting Motion (Right) · <a href="templates/examples/product-agency-studio-clip.mp4">MP4</a></sub></p>
+
 **Scaling MRR for an E-commerce Visual Agency**
+
+
 
 * **Agency Offer:** Packaged visual service sold as: *"E-commerce Conversion Booster Pack — 10 Lifestyle Scenes in 3 Days for $499."*
 * **Acquisition Strategy:** Found 50 skincare stores on Shopify using basic product images. Sent personalized before/after renders to their founders via email.

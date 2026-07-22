@@ -64,7 +64,15 @@ Before exporting, run through the [`templates/asset-specs-checklist.md`](templat
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/content-factory-studio.jpg" alt="Content Studio" width="280">
+<img src="templates/examples/content-factory-studio-clip.gif" alt="Automated Factory Motion (I2V)" width="280">
+</p>
+<p align="center"><sub>Automated Content Studio Image (Left) ──► Image-to-Video Factory Motion (Right) · <a href="templates/examples/content-factory-studio-clip.mp4">MP4</a></sub></p>
+
 **Pipeline Run: "AI in Retail" Explainer (Widescreen)**
+
+
 
 * **Station 1 (Idea):** Angle chosen: *"How physical grocery stores use AI cameras to count inventory."* (Time spent: **2 mins**).
 * **Station 2 (Script):** Drafted a 140-word narrative structure. (Time spent: **6 mins**).
