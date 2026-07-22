@@ -68,7 +68,18 @@ If Variant B shows a reduction in returns and a lift in sales, push the changes 
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/denim-model-measurements.jpg" alt="Model Sizing Measurement Callout Overlay" width="320">
+</p>
+<p align="center"><sub>AI-Generated Model Photo with Measurement Callout Overlay</sub></p>
+
+
+
+
+
 **Fit-Related Return Reduction for a Denim Brand**
+
+
 
 * **Baseline Status:** A premium jeans brand suffered from a **28% return rate**. Product photos featured only flat-lay shots, leading to customer sizing confusion.
 * **Redesign Strategy (Variant B):**

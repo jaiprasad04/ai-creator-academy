@@ -65,7 +65,18 @@ Upload the videos to YouTube Studio, TikTok Studio, and Instagram Creator Studio
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/faceless-workstation.jpg" alt="Multi-Channel Production Workstation" width="480">
+</p>
+<p align="center"><sub>AI-Generated Multi-Channel Production Workstation</sub></p>
+
+
+
+
+
 **Operating a 2-Channel Batch (Total Weekly Time: 6 hours)**
+
+
 
 * **Channel 1:** "Automate Smarter" (Tech SaaS Niche, 3 uploads/week)
 * **Channel 2:** "Crypto Blueprint" (Finance Niche, 2 uploads/week)

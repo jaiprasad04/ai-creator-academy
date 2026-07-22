@@ -34,6 +34,11 @@ The natural progression is gig → project → retainer, using each stage's outp
 > "I'll create a UGC-style AI ad for your product — $35. Includes: script, AI creator/voice, captions, 1 revision. Delivered in 9:16, ready to run. Turnaround: 3 days."
 Priced mid-range ($35) rather than the floor ($10) or the ceiling ($55) because there's no portfolio yet to justify top-of-range pricing — cheap enough to get first buyers, not so cheap it signals low quality.
 
+<p align="center">
+<img src="templates/examples/character-anchor.jpg" alt="UGC Creative Package Pitch Deck" width="360">
+</p>
+<p align="center"><sub>UGC Creator Ad Batch Client Pitch Visual</sub></p>
+
 **Cold outreach to a DTC brand** (after 2-3 gig deliveries, targeting project work):
 > Subject: a UGC-style ad concept for [Brand]
 > Hi [Name] — noticed [Brand] is running paid social ads for [specific product]. I put together a quick AI-generated UGC-style ad using the same product [attach/link the actual sample ad] — thought it might be a useful new angle to test against your current creative. If it's a fit, I can turn around a full batch of variants (different hooks/angles) for testing. Happy to share more examples if useful.

@@ -54,7 +54,18 @@ At the 15-second or 30-second mark, insert a sudden visual scale-up (e.g. zoom-i
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/fitness-reel-preview.jpg" alt="TikTok/Reels Fitness Video Model" width="320">
+</p>
+<p align="center"><sub>AI-Generated TikTok/Reels Vertical Short Model</sub></p>
+
+
+
+
+
 **Timeline Construction for "Peak Performance" (Fitness Niche)**
+
+
 
 * **Visual Cut pacing:**
   * **0.0 - 1.5s:** Still image of a runner at sunrise (100% to 105% scale-up).

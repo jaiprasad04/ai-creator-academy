@@ -62,7 +62,18 @@ Allow the test to run for at least 14 days to capture mid-week and weekend shopp
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/coffee-before-after.jpg" alt="Coffee Bag Before/After AI Redesign" width="560">
+</p>
+<p align="center"><sub>AI-Generated Coffee Bag Listing Redesign: Raw Stock vs. Premium Kitchen Scene</sub></p>
+
+
+
+
+
 **Redesigning a High-End Specialty Coffee Bag Listing**
+
+
 
 * **Initial Listing Status:** The brand sold a $25 bag of coffee beans using a flat stock photograph. Average Conversion Rate was **1.8%**.
 * **Visual Redesign (Variant B):**

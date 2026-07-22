@@ -57,7 +57,18 @@ Zoom in on the final image and inspect these key areas:
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/linen-shirt-vto.jpg" alt="Linen Shirt Ghost Mannequin vs VTO Model" width="560">
+</p>
+<p align="center"><sub>AI-Generated Ghost Mannequin Flat-Lay vs. Virtual Try-On Model Result</sub></p>
+
+
+
+
+
 **Linen Shirt Mannequin-to-Model Swap**
+
+
 
 * **Garment Input:** A flat ghost mannequin shot of an off-white linen button-down shirt.
 * **Target Model:** A 30-year-old Caucasian male model with an athletic build.

@@ -55,7 +55,18 @@ Listen to the generated foreign dub. Zoom in to the timeline in your editor:
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/dubbing-studio.jpg" alt="AI Dubbing & Translation Studio" width="480">
+</p>
+<p align="center"><sub>AI-Generated Global Dubbing Studio · <a href="templates/examples/rachel-vocal-dubbed.mp3">Listen to Spanish Dubbed Audio MP3</a></sub></p>
+
+
+
+
+
 **Translating a SaaS Tutorial Video (English to Spanish)**
+
+
 
 * **Original Clip:** Duration: 4.5 seconds. Dialogue: *"Here is how to parse your invoice files instantly."*
 * **Dubbing Output:** Spanish translation: *"Aquí le mostramos cómo analizar sus archivos de facturas al instante."*

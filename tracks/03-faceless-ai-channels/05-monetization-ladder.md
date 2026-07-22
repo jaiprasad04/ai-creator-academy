@@ -58,7 +58,18 @@ Set up an automated workflow inside your email marketing software (e.g., Convert
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/faceless-monetization.jpg" alt="Digital Product & Course Launch Suite" width="480">
+</p>
+<p align="center"><sub>AI-Generated Digital Product Launch & Monetization Suite</sub></p>
+
+
+
+
+
 **Monetization of "Automate Smarter" at 2,500 Subscribers**
+
+
 
 * **Monthly Channel Views:** 60,000 views (Shorts)
 * **AdSense Status:** Not yet qualified (0 ad revenue)

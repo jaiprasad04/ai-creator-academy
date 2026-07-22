@@ -29,6 +29,12 @@ Documented, large-scale AI-UGC ad campaigns are useful teardown subjects precise
 
 Say you're prospecting a skincare-serum brand and want a teardown to open the conversation. You pull up **Meta Ads Library** (free, no login needed) and search the brand's page.
 
+<p align="center">
+<img src="templates/examples/gripmount-hook-clip.gif" alt="GripMount Campaign Teardown Clip" width="240">
+<img src="templates/examples/gripmount-ad2-problem-first.gif" alt="Problem-First Variant Clip" width="240">
+</p>
+<p align="center"><sub>GripMount Campaign Performance Teardown Video Clips</sub></p>
+
 **Step 1 — longevity signal:** One ad shows "started running 47 days ago" with 6 near-identical variants (same script, different creator). Running that long, with that many variants of itself, is the tell that the brand found a winning script and is now testing creators/hooks against it — not guessing.
 
 **Step 2 — script mapped to structure:**

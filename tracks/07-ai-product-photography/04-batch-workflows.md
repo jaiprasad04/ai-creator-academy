@@ -59,7 +59,18 @@ Import your isolated PNG masks into the template:
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/batch-skincare-grid.jpg" alt="Batch Skincare Catalog Grid" width="560">
+</p>
+<p align="center"><sub>AI-Generated 4-Item Skincare Collection Batch Catalog Grid</sub></p>
+
+
+
+
+
 **Batch Catalog Refurbishing for a Skincare Brand**
+
+
 
 * **Catalog Scope:** 5 different facial serum droppers (Rose, Lavender, Cucumber, Tea Tree, Citrus).
 * **Baseline Setup:**

@@ -61,7 +61,18 @@ Select all video clips on V1. Add an adjustment layer over the entire timeline a
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/the-last-signal-poster.jpg" alt="Timeline Key Art & Scene Assembly" width="480">
+</p>
+<p align="center"><sub>AI-Generated Key Art Preview for "The Last Signal" Film Assembly</sub></p>
+
+
+
+
+
 **Timeline Assembly for "The Last Signal" Scene 1**
+
+
 
 Here is the track layout inside the editing timeline for the first 12 seconds:
 

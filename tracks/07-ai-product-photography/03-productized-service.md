@@ -57,7 +57,18 @@ Deliver the final WebP assets to the client within the promised timeframe. Inclu
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/product-agency-studio.jpg" alt="Commercial Product Photography Studio" width="480">
+</p>
+<p align="center"><sub>AI-Generated Commercial Product Photography Studio</sub></p>
+
+
+
+
+
 **Scaling MRR for an E-commerce Visual Agency**
+
+
 
 * **Agency Offer:** Packaged visual service sold as: *"E-commerce Conversion Booster Pack — 10 Lifestyle Scenes in 3 Days for $499."*
 * **Acquisition Strategy:** Found 50 skincare stores on Shopify using basic product images. Sent personalized before/after renders to their founders via email.

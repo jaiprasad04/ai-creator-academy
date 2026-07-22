@@ -53,7 +53,18 @@ Open YouTube Studio Web, TikTok Studio Web, and Instagram Creator Studio. Upload
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/batch-production-suite.jpg" alt="Batch Production Suite & Content Schedule" width="480">
+</p>
+<p align="center"><sub>AI-Generated Batch Production Suite & Content Calendar Studio</sub></p>
+
+
+
+
+
 **30-Shorts Production Run (Total time: 15 hours)**
+
+
 
 * **Scripting Batch:** 30 scripts drafted in Claude. (Time spent: **3 hours**).
 * **Audio Batch:** 30 ElevenLabs voice generations. (Time spent: **1 hour**).

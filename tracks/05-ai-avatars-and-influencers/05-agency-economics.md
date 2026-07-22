@@ -58,7 +58,18 @@ Upload the finished files to the client's shared folder. Send a notification: *"
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/avatar-agency-suite.jpg" alt="Virtual Avatar Agency Management Suite" width="480">
+</p>
+<p align="center"><sub>AI-Generated Virtual Avatar Agency Management Suite</sub></p>
+
+
+
+
+
 **Virtual Spokesperson Campaign for "HireFast" (Recruiting SaaS)**
+
+
 
 * **The Client:** A recruiting software startup.
 * **The Deal:** **$2,000/month** retainer.

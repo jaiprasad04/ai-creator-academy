@@ -62,9 +62,20 @@ Place the storyboard frames next to each other. Do a drift check:
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/storyboard-shot1-wide.jpg" alt="Shot 1: Wide Establishing Shot of spaceship cockpit" width="240">
+<img src="templates/examples/storyboard-shot2-medium.jpg" alt="Shot 2: Medium Shot of astronaut" width="240">
+<img src="templates/examples/storyboard-shot3-closeup.jpg" alt="Shot 3: Close-up of NO SIGNAL CRT monitor" width="240">
+</p>
+<p align="center"><sub>AI-Generated 3-Frame Storyboard Sequence for "The Last Signal" Scene 1</sub></p>
+
+
+
+
+
 **Storyboard Plan for "The Last Signal" (Scene 1)**
 
-We want to generate 3 storyboard frames for our opening scene:
+We generated 3 actual storyboard frames for our opening scene:
 
 **Shot 1: Wide Establishing Shot**
 > **Prompt:** `"Cinematic 35mm film photograph, establishing wide shot of a cramped spaceship cockpit. glowing green control panels line the curved metallic walls. Muted teal lighting with deep shadows. No characters. Widescreen, highly detailed."`
@@ -74,6 +85,8 @@ We want to generate 3 storyboard frames for our opening scene:
 
 **Shot 3: Close-up (Detail Shot)**
 > **Prompt:** `"Cinematic 35mm film photograph, extreme close-up of a dusty CRT monitor screen showing static and a flashing green text reading 'NO SIGNAL'. Widescreen."`
+
+
 
 **Why this sequence works:**
 * The Wide shot sets the space.

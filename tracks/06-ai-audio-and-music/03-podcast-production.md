@@ -67,7 +67,18 @@ Run a Loudness Normalization effect:
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/podcast-audio-console.jpg" alt="Podcast Broadcast Studio Mixing Console" width="480">
+</p>
+<p align="center"><sub>AI-Generated Broadcast Podcast Studio Console</sub></p>
+
+
+
+
+
 **Mastering a Raw Podcast Interview Track**
+
+
 
 * **Input File:** Recorded in a home office with a USB desk mic. Contained computer fan noise and volume fluctuations.
 * **Mastering Run:**

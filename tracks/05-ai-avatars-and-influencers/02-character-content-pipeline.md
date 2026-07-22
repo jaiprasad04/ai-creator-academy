@@ -54,7 +54,18 @@ Import the talking-head video into CapCut. Do not leave the talking head on scre
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/emma-clip.gif" alt="Avatar Video Clip Loop" width="320">
+</p>
+<p align="center"><sub>AI-Generated Avatar Video Clip · <a href="templates/examples/emma-clip.mp4">Download MP4</a></sub></p>
+
+
+
+
+
 **Animating "Emma" for a 60-Second Short**
+
+
 
 * **Assets Prepped:** `emma-master.jpg` (centered face) and `01_hook.mp3` (*"Hey, it's Emma here. Today we are..."*, duration: 4.5 seconds).
 * **Lip-Sync Processing:** Assets fed into `/sync-lipsync`. The output video file is 4.5 seconds long, showing Emma speaking the intro text naturally with blink animations.
@@ -67,9 +78,7 @@ Import the talking-head video into CapCut. Do not leave the talking head on scre
 
 **The clip below is real, not a mockup** — the consistent cafe image animated into a short vertical video loop using `seedance-2-image-to-video-fast` from the scenario above, so you can see what a first-pass output actually looks like:
 
-<p align="center"><img src="templates/examples/emma-clip.gif" alt="Emma consistent cafe video (silent GIF preview)" width="158"></p>
 
-<p align="center"><a href="templates/examples/emma-clip.mp4">▶ Watch the original (.mp4)</a> — GitHub can't play video inline in a README, so the GIF above is a silent preview; the linked file has the high-quality render.</p>
 
 <p align="center"><i>An unedited first pass — Emma blinks naturally, shifts her head slightly, holding the coffee cup, dynamically animated by the video engine for high-retention content.</i></p>
 

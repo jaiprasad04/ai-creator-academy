@@ -54,7 +54,18 @@ Once the deal is closed, generate the video following the brand guidelines. Set 
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/avatar-brand-sponsor.jpg" alt="Virtual Influencer Brand Sponsorship" width="320">
+</p>
+<p align="center"><sub>AI-Generated Virtual Influencer Brand Sponsorship Shot</sub></p>
+
+
+
+
+
 **Sponsorship Campaign for "Emma" (Tech Niche, 8,000 followers)**
+
+
 
 * **The Partner:** "TaskFlow AI" (A SaaS project management tool).
 * **The Deal:** **$400** for 3 dedicated vertical clips showcasing their dashboard features.

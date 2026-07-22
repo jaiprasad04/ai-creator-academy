@@ -53,7 +53,18 @@ Import the converted singing track back into your audio editor. Add a subtle pla
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/singing-vocal-studio.jpg" alt="Singing Voice Acoustic Recording Studio" width="480">
+</p>
+<p align="center"><sub>AI-Generated Vocal Recording Studio for RVC Synthesis</sub></p>
+
+
+
+
+
 **Creating a Theme Song Vocal (Male Guide to Emma Avatar)**
+
+
 
 * **Guide Recording:** A male editor recorded a basic guide vocal singing: *"Automate your SaaS..."* in key. Pitch correction snapped the notes to C-Major.
 * **RVC Setup:**

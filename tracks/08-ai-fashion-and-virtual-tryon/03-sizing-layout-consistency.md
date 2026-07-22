@@ -57,7 +57,18 @@ Hide the grid template layers, and export the file as WebP. Repeat this process 
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/mannequin-grid-alignment.jpg" alt="Fashion Catalog Baseline Grid Alignment" width="560">
+</p>
+<p align="center"><sub>AI-Generated 4-Item Collection Baseline & Alignment Grid</sub></p>
+
+
+
+
+
 **Aligning a 5-Item Windbreaker Collection**
+
+
 
 * **Catalog Resolution:** 1080x1350px vertical.
 * **Baseline Settings:**

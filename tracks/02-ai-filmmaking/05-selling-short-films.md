@@ -60,7 +60,18 @@ Reach out to licensing representatives of vertical vertical-video networks. Pitc
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/the-last-signal-poster.jpg" alt="Licensing Poster Deck for The Last Signal" width="480">
+</p>
+<p align="center"><sub>AI-Generated Movie Key Art & Pitch Deck Visual for "The Last Signal"</sub></p>
+
+
+
+
+
 **Licensing "The Last Signal" Series to a Mobile App**
+
+
 
 * **The Deal:** A 5-episode vertical mini-series (1 minute per episode).
 * **The Agreement terms:**

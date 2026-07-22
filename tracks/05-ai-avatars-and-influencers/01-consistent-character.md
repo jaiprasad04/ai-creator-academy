@@ -57,7 +57,20 @@ If the face in the cafe generation drifts slightly from the master, use the `/z-
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/emma-master.jpg" alt="Master Profile: Emma" width="220">
+<img src="templates/examples/emma-cafe-raw.jpg" alt="Raw Scene Render" width="220">
+<img src="templates/examples/emma-cafe-consistent.jpg" alt="Face-Swapped Consistent Render" width="220">
+</p>
+<p align="center"><sub>AI Master Avatar Profile (Left) ──► Raw Scene (Center) ──► Face-Swapped Output (Right)</sub></p>
+
+
+
+
+
 **Creating "Emma" (Tech Influencer Avatar)**
+
+
 
 * **Master Reference Profile:** 28s, short textured brown bob, oval face, freckles, wearing a dark blue crewneck sweater. Master portrait saved to local folder.
 * **Scene 1 (Office):** Generated Emma sitting at a corporate desk. Face swapped with Master.

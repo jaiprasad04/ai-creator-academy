@@ -60,7 +60,18 @@ Save your ideal configurations in the cloning log.
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/voice-studio-setup.jpg" alt="Professional Voice Recording Studio" width="480">
+</p>
+<p align="center"><sub>AI-Generated Voice Studio Setup · <a href="templates/examples/rachel-vocal-cloned.mp3">Listen to Cloned Voice MP3</a></sub></p>
+
+
+
+
+
 **Creating "Arthur" (B2B SaaS Spokesperson)**
+
+
 
 * **Training Inputs:** 7 minutes of clean, dry wav recording of an instructional SaaS guide. Normalized to -3dB peak, gate set to -50dB.
 * **Cloning Interface:** ElevenLabs IVC portal. Cloned as `Arthur_B2B_V1`.

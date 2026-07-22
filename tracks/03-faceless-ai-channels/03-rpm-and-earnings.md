@@ -56,7 +56,18 @@ Calculate how many views you need to secure a digital product conversion. If you
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/faceless-finance-niche.jpg" alt="Finance & SaaS Niche Creator Workstation" width="480">
+</p>
+<p align="center"><sub>AI-Generated High-RPM Finance & SaaS Channel Studio Setup</sub></p>
+
+
+
+
+
 **Profitability Comparison: Niche & Format Optimization**
+
+
 
 ### Scenario A: General Gaming Channel (Shorts-Only)
 * **Monthly Views:** 1,000,000 views (Shorts)

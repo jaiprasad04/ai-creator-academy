@@ -61,7 +61,18 @@ Zoom out your editor screen until the thumbnail is the size of a coin (approx. 1
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/get-rich-automated-thumbnail.jpg" alt="High-CTR YouTube Thumbnail Design" width="480">
+</p>
+<p align="center"><sub>AI-Generated High-CTR YouTube Thumbnail</sub></p>
+
+
+
+
+
 **Thumbnail Design: "Get Rich Automated"**
+
+
 
 * **Asset Generation:**
   * Model: `nano-banana-2` via muapi.

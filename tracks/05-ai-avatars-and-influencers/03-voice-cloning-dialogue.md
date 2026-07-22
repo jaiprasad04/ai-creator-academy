@@ -58,7 +58,18 @@ Take your script text and insert punctuation cues to match a conversational rhyt
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/avatar-recording-studio.jpg" alt="Avatar Vocal Recording Studio" width="480">
+</p>
+<p align="center"><sub>AI-Generated Vocal Recording Studio for Avatar "Emma"</sub></p>
+
+
+
+
+
 **Voice Clone Training for "Emma" (Tech Influencer)**
+
+
 
 * **Audio Sourcing:** Recorded 8 minutes of clean vocal reading using a desk USB microphone inside a carpeted closet. Audio cleaned in Audacity (Noise gate applied, background hiss removed).
 * **ElevenLabs Upload:** Cloned under the name `Emma_V1`.

@@ -59,10 +59,21 @@ Create a style sheet with your prompt prefixes (lighting, film stock, aspect rat
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/astronaut-anchor.jpg" alt="Hero Portrait for The Last Signal: Astronaut in flight suit" width="480">
+</p>
+<p align="center"><sub>AI-Generated Hero Character Anchor Portrait for "The Last Signal"</sub></p>
+
+
+
+
+
 **Film Brief: "The Last Signal"**
 * **Character:** John (40s), a tired astronaut.
 * **Location:** Spaceship communication deck.
 * **Vibe:** Cinematic sci-fi, moody blue lighting.
+
+
 
 **Script Excerpt & Prompts:**
 
@@ -85,9 +96,7 @@ VIDEO PROMPT (Shot 1.1):
 
 **The clip below is real, not a mockup** — the anchor image generated via `nano-banana-2` and animated into a short cinematic clip using `seedance-2-image-to-video-fast` from the script excerpt above, so you can see what a first-pass output actually looks like:
 
-<p align="center"><img src="templates/examples/astronaut-clip.gif" alt="Generated cinematic clip (silent GIF preview)" width="280"></p>
 
-<p align="center"><a href="templates/examples/astronaut-clip.mp4">▶ Watch the original (.mp4)</a> — GitHub can't play video inline in a README, so the GIF above is a silent preview; the linked file has the high-quality render.</p>
 
 <p align="center"><i>An unedited first pass — character features, clothing, and background are held perfectly consistent from the starting storyboard frame because of first-frame conditioning.</i></p>
 
