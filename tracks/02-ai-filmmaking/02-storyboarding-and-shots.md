@@ -69,17 +69,34 @@ Place the storyboard frames next to each other. Do a drift check:
 </p>
 <p align="center"><sub>Storyboard Frame 1 (Left) ──► Frame 2 (Center) ──► Image-to-Video Animation (Right) · <a href="templates/examples/storyboard-anim-clip.mp4">MP4</a></sub></p>
 
-**Storyboard Plan for "The Last Signal" (Scene 1)**
+**Storyboard Script & Scene Breakdown for "The Last Signal" (Scene 1)**
 
-We generated 3 actual storyboard frames for our opening scene:
+Below is the screenplay script excerpt for Scene 1 and its corresponding 3-shot AI storyboard breakdown:
 
-**Shot 1: Wide Establishing Shot**
+```markdown
+SCENE 1: INT. SPACESHIP COCKPIT - NIGHT
+
+A cramped, metallic flight deck illuminated only by flickering instrument lights. Volumetric green glow washes over the curved control panels. 
+
+JOHN (40s, tired eyes, wearing a weathered silver flight suit) sits alone in the pilot seat. He stares up at a dusty overhead monitor as static hums over the speakers.
+
+JOHN (V.O.)
+Day 412. Still no response from deep space relay Theta. If anyone is listening... this is my final transmission.
+
+The overhead monitor flickers aggressively before flashing stark green text: NO SIGNAL.
+```
+
+### Storyboard Shot List & AI Prompts
+
+We generated 3 actual storyboard frames from this script excerpt:
+
+**Shot 1: Wide Establishing Shot (WS)**
 > **Prompt:** `"Cinematic 35mm film photograph, establishing wide shot of a cramped spaceship cockpit. glowing green control panels line the curved metallic walls. Muted teal lighting with deep shadows. No characters. Widescreen, highly detailed."`
 
-**Shot 2: Medium Shot (Character Intro)**
+**Shot 2: Medium Shot (MS - Character Intro)**
 > **Prompt:** `"Cinematic 35mm film photograph, medium shot of a tired astronaut (40s, short gray hair, stubble, wearing a worn silver flight suit) sitting in a pilot seat inside a spaceship cockpit. Cool blue light illuminates his face, glowing green control panels out of focus in the background. Widescreen."` *(Reference Image: Character Anchor)*
 
-**Shot 3: Close-up (Detail Shot)**
+**Shot 3: Close-up (CU - Prop Detail Shot)**
 > **Prompt:** `"Cinematic 35mm film photograph, extreme close-up of a dusty CRT monitor screen showing static and a flashing green text reading 'NO SIGNAL'. Widescreen."`
 
 
@@ -127,6 +144,7 @@ Film freeway, director forums, Upwork, and production agency directories. Cold e
 
 Reusable template(s) this module produces:
 
+* [`templates/storyboard-script-template.md`](templates/storyboard-script-template.md) — a breakdown template for structuring AI storyboard shots and Image-to-Video prompts.
 * [`templates/shot-list-template.md`](templates/shot-list-template.md) — a tracker for logging frames, camera framings, and prompts.
 * [`templates/style-guide-template.md`](templates/style-guide-template.md) — a template to lock in your film's prompt prefixes, aspect ratios, and color palette.
 
