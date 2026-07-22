@@ -68,13 +68,10 @@ Run a Loudness Normalization effect:
 ## Worked Example
 
 <p align="center">
-<img src="templates/examples/podcast-audio-console.jpg" alt="Podcast Broadcast Studio Mixing Console" width="480">
+<img src="templates/examples/podcast-audio-console.jpg" alt="Podcast Console" width="280">
+<img src="templates/examples/podcast-console-clip.gif" alt="Podcast Mixing Motion (I2V)" width="280">
 </p>
-<p align="center"><sub>AI-Generated Broadcast Podcast Studio Console</sub></p>
-
-
-
-
+<p align="center"><sub>Podcast Console Image (Left) ──► Image-to-Video VU Meter Motion (Right) · <a href="templates/examples/podcast-console-clip.mp4">MP4</a></sub></p>
 
 **Mastering a Raw Podcast Interview Track**
 

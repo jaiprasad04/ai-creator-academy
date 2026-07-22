@@ -63,15 +63,11 @@ Place the storyboard frames next to each other. Do a drift check:
 ## Worked Example
 
 <p align="center">
-<img src="templates/examples/storyboard-shot1-wide.jpg" alt="Shot 1: Wide Establishing Shot of spaceship cockpit" width="240">
-<img src="templates/examples/storyboard-shot2-medium.jpg" alt="Shot 2: Medium Shot of astronaut" width="240">
-<img src="templates/examples/storyboard-shot3-closeup.jpg" alt="Shot 3: Close-up of NO SIGNAL CRT monitor" width="240">
+<img src="templates/examples/storyboard-shot1-wide.jpg" alt="Shot 1 Wide" width="240">
+<img src="templates/examples/storyboard-shot2-medium.jpg" alt="Shot 2 Medium" width="240">
+<img src="templates/examples/storyboard-anim-clip.gif" alt="Animated Storyboard Sequence (I2V)" width="240">
 </p>
-<p align="center"><sub>AI-Generated 3-Frame Storyboard Sequence for "The Last Signal" Scene 1</sub></p>
-
-
-
-
+<p align="center"><sub>Storyboard Frame 1 (Left) ──► Frame 2 (Center) ──► Image-to-Video Animation (Right) · <a href="templates/examples/storyboard-anim-clip.mp4">MP4</a></sub></p>
 
 **Storyboard Plan for "The Last Signal" (Scene 1)**
 

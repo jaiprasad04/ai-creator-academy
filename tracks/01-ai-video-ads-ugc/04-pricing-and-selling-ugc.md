@@ -30,14 +30,17 @@ The natural progression is gig → project → retainer, using each stage's outp
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/character-anchor.jpg" alt="UGC Agency Offer Anchor" width="240">
+<img src="templates/examples/gripmount-hook-clip.gif" alt="UGC Commercial Deliverable (I2V)" width="240">
+</p>
+<p align="center"><sub>UGC Agency Offer Image (Left) ──► Commercial Video Deliverable (Right) · <a href="templates/examples/gripmount-hook-clip.mp4">MP4</a></sub></p>
+
 **Gig-stage listing** (Fiverr-style):
 > "I'll create a UGC-style AI ad for your product — $35. Includes: script, AI creator/voice, captions, 1 revision. Delivered in 9:16, ready to run. Turnaround: 3 days."
 Priced mid-range ($35) rather than the floor ($10) or the ceiling ($55) because there's no portfolio yet to justify top-of-range pricing — cheap enough to get first buyers, not so cheap it signals low quality.
 
-<p align="center">
-<img src="templates/examples/character-anchor.jpg" alt="UGC Creative Package Pitch Deck" width="360">
-</p>
-<p align="center"><sub>UGC Creator Ad Batch Client Pitch Visual</sub></p>
+
 
 **Cold outreach to a DTC brand** (after 2-3 gig deliveries, targeting project work):
 > Subject: a UGC-style ad concept for [Brand]

@@ -31,6 +31,12 @@ Varying all three per ad would make every ad different in every way, making it i
 
 ## Worked Example
 
+<p align="center">
+<img src="templates/examples/gripmount-ad2-problem-first.gif" alt="Ad Variation 2: Problem-First Loop" width="240">
+<img src="templates/examples/gripmount-ad3-pov.gif" alt="Ad Variation 3: POV Demonstration Loop" width="240">
+</p>
+<p align="center"><sub>Image-to-Video Problem-First Hook (Left) ──► POV Product Demonstration Loop (Right) · <a href="templates/examples/gripmount-ad2-problem-first.mp4">Ad 2 MP4</a> · <a href="templates/examples/gripmount-ad3-pov.mp4">Ad 3 MP4</a></sub></p>
+
 Continuing the GripMount ad (Module 1) with the consistent "creator" from Module 2. Here's a real 5-ad test batch matrix:
 
 | Ad # | Hook | Angle | Constant |
@@ -45,12 +51,7 @@ Only the hook and opening angle change — product demo, proof section, and CTA 
 
 **Ad 1 (Module 1) vs. Ad 2 and Ad 3, actually generated** — same anchor character (Module 2), same product, only the opening line changes. This is what "batching" looks like in practice, not just a table of hooks:
 
-<p align="center">
-<img src="templates/examples/gripmount-hook-clip.gif" alt="Ad 1: durability/surprise hook" width="180">
-<img src="templates/examples/gripmount-ad2-problem-first.gif" alt="Ad 2: problem-first hook" width="180">
-<img src="templates/examples/gripmount-ad3-pov.gif" alt="Ad 3: POV format hook" width="180">
-</p>
-<p align="center"><sub>Ad 1: <a href="templates/examples/gripmount-hook-clip.mp4">mp4</a> · Ad 2: <a href="templates/examples/gripmount-ad2-problem-first.mp4">mp4</a> · Ad 3: <a href="templates/examples/gripmount-ad3-pov.mp4">mp4</a> (with audio; GIFs above are silent previews)</sub></p>
+
 
 Producing these 3 took re-using the same uploaded anchor image across 3 separate `seedance-2-image-to-video-fast` calls, changing only the prompt's dialogue line each time (~$0.75/clip) — this is exactly what "batch-produce voice and avatar generation" in Do It, step 5 means: the character and product stay fixed, only the script text changes per call.
 

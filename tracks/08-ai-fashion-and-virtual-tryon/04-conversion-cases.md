@@ -69,13 +69,10 @@ If Variant B shows a reduction in returns and a lift in sales, push the changes 
 ## Worked Example
 
 <p align="center">
-<img src="templates/examples/denim-model-measurements.jpg" alt="Model Sizing Measurement Callout Overlay" width="320">
+<img src="templates/examples/denim-model-measurements.jpg" alt="Denim Model Measurements" width="240">
+<img src="templates/examples/denim-model-clip.gif" alt="Denim Fit Video Motion (I2V)" width="240">
 </p>
-<p align="center"><sub>AI-Generated Model Photo with Measurement Callout Overlay</sub></p>
-
-
-
-
+<p align="center"><sub>Denim Sizing Image (Left) ──► Image-to-Video Model Fit Motion (Right) · <a href="templates/examples/denim-model-clip.mp4">MP4</a></sub></p>
 
 **Fit-Related Return Reduction for a Denim Brand**
 

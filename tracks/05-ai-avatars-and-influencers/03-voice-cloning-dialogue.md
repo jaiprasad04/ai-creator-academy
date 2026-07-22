@@ -59,13 +59,10 @@ Take your script text and insert punctuation cues to match a conversational rhyt
 ## Worked Example
 
 <p align="center">
-<img src="templates/examples/avatar-recording-studio.jpg" alt="Avatar Vocal Recording Studio" width="480">
+<img src="templates/examples/avatar-recording-studio.jpg" alt="Vocal Studio" width="280">
+<img src="templates/examples/avatar-studio-clip.gif" alt="Avatar Vocal Studio Motion (I2V)" width="280">
 </p>
-<p align="center"><sub>AI-Generated Vocal Recording Studio for Avatar "Emma"</sub></p>
-
-
-
-
+<p align="center"><sub>Vocal Recording Studio (Left) ──► Image-to-Video Studio Motion (Right) · <a href="templates/examples/avatar-studio-clip.mp4">MP4</a></sub></p>
 
 **Voice Clone Training for "Emma" (Tech Influencer)**
 
