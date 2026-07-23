@@ -26,7 +26,7 @@ Find Vacant Listing (Zillow/Redfin) ──► Staging Sample Generation ──�
 
 ### The 4-Stage Client Acquisition Engine:
 
-1. **Precision Lead Prospecting:** Filter Zillow/Redfin for listings in your area tagged as *"Vacant"* or showing photos of empty rooms that have been active for **15+ Days on Market (DOM)**.
+1. **Precision Lead Prospecting:** Filter Zillow/Redfin for listings in your area tagged as *"Vacant"* or showing photos of empty rooms that have been active for **20+ Days on Market (DOM)**.
 2. **The Free Transformation Hook:** Download 1 empty room photo from their active listing, run it through your AI staging pipeline, and create a striking before/after composite.
 3. **Hyper-Personalized Outreach:** Email the listing agent showing their exact room transformed into a modern luxury living room—before asking for a sale.
 4. **Brokerage Retainer Locking:** Once an agent experiences a 24-hour turnaround on an active listing, lock them into a **Monthly Agency Retainer** ($499–$1,299/month) for all their upcoming listings.

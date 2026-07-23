@@ -28,7 +28,7 @@ TOTAL PHYSICAL STAGING COST:    $3,600
 
 AI Virtual Staging Costs (Full House Package):
 • 6 Staged Rooms (MLS Ready):    $199
-• Delivery & Delivery Setup:     Included
+• Delivery & File Setup:          Included
 -----------------------------------------
 TOTAL AI VIRTUAL STAGING COST:  $199 (SAVE $3,401 / 94% Savings!)
 ```

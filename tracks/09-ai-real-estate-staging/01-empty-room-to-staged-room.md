@@ -41,7 +41,7 @@ Empty Room Photo ──► Depth Mask Generation ──► Perspective Alignment
 ## Do It
 
 ### Step 1: Capture & Select the Source Photograph
-Obtain a high-resolution wide-angle photograph of the vacant room. Ensure the photo is straight (horizontally level and vertically plum) and well-lit with natural daylight. Save as `empty-room-source.jpg`.
+Obtain a high-resolution wide-angle photograph of the vacant room. Ensure the photo is straight (horizontally level and vertically plumb) and well-lit with natural daylight. Save as `empty-room-source.jpg`.
 
 ### Step 2: Define the Staging Mask Area
 Open your photo editor or inpainting interface. Select the floor area where furniture should sit while keeping structural features (windows, fireplaces, support columns, structural walls) untouched. Create an inpainting mask layer covering 60–70% of the open floor space.
