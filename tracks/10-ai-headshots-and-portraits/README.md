@@ -1,6 +1,6 @@
 # Track 10: AI Headshots & Portraits
 
-> Transform casual smartphone selfies into studio-grade corporate portraits. Master facial identity locking, studio lighting rigs, and B2B enterprise team packages.
+> Transform casual smartphone selfies into studio-grade corporate and creative portraits. Master facial identity locking, B2B team packages, bulk automation, and editorial mood lighting.
 
 ---
 
@@ -10,6 +10,8 @@
 |---|---|---|---|
 | 1 | [Consistent Headshot Generation](01-consistent-headshot-generation.md) | Facial identity vectors, Rembrandt lighting rigs, and skin texture preservation | Studio-grade corporate headshots & lighting motion clips |
 | 2 | [Standing Out Against Fiverr Competition](02-standing-out-against-fiverr-competition.md) | B2B corporate team packages, GDPR privacy compliance, and self-serve intake portals | Enterprise sales proposal & high-margin team packages |
+| 3 | [Batch Headshots for Remote Teams](03-batch-headshots-for-remote-teams.md) | CSV roster ingestion, facial auto-cropping, and unified brand background injection | 50+ employee automated team headshot zip bundles |
+| 4 | [Creative Headshots & Stylized Portraits](04-creative-headshots-and-stylized-portraits.md) | Keynote speaker stage lighting, color gel accents, and environmental loft portraits | Editorial press kits for authors, speakers, and creators |
 
 ---
 

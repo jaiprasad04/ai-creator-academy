@@ -97,6 +97,8 @@ Status key: ✅ live · 🚧 in progress · ⬜ coming soon
 |---|---|---|
 | 1 | Consistent Headshot Generation | ✅ |
 | 2 | Standing Out Against Fiverr Competition | ✅ |
+| 3 | Batch Headshots for Remote Teams | ✅ |
+| 4 | Creative Headshots & Stylized Portraits | ✅ |
 
 ## Track 11 — AI Print-on-Demand & Merch Design ✅
 
