@@ -20,6 +20,5 @@
 * [`templates/stock-licensing-calculator.md`](templates/stock-licensing-calculator.md) — Royalty calculators, multi-platform syndication trackers, and portfolio growth models.
 * [`templates/commercial-stock-prompt-library.md`](templates/commercial-stock-prompt-library.md) — High-converting commercial concept prompts across 6 top-selling stock categories.
 * [`templates/stock-agency-submission-guide.md`](templates/stock-agency-submission-guide.md) — Adobe Stock, Freepik, Wirestock upload guidelines and FTP batch setup.
-* [`templates/examples/corporate-handshake-stock.jpg`](templates/examples/corporate-handshake-stock.jpg) — Commercial corporate partnership stock photograph.
-* [`templates/examples/future-technology-stock.jpg`](templates/examples/future-technology-stock.jpg) — High-tech server room data concept stock photograph.
-* [`templates/examples/stock-catalog-motion.gif`](templates/examples/stock-catalog-motion.gif) — Image-to-Video stock motion clip ([stock-catalog-motion.mp4](templates/examples/stock-catalog-motion.mp4)).
+* [`templates/examples/corporate-handshake-stock.jpg`](templates/examples/corporate-handshake-stock.jpg) — Commercial corporate partnership stock photograph ([stock-catalog-motion.mp4](templates/examples/stock-catalog-motion.mp4) / [.gif](templates/examples/stock-catalog-motion.gif)).
+* [`templates/examples/future-technology-stock.jpg`](templates/examples/future-technology-stock.jpg) — High-tech server room data concept stock photograph ([future-technology-stock-motion.mp4](templates/examples/future-technology-stock-motion.mp4) / [.gif](templates/examples/future-technology-stock-motion.gif)).
