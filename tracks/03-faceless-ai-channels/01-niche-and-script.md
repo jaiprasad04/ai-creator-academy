@@ -24,7 +24,7 @@ Earnings = (Views / 1000) * RPM + Direct Conversions
 
 To maximize this, we focus on:
 * **High-CPM Niches:** Industries that sell high-priced products (e.g. business software, SaaS, banking, real estate, luxury travel). Advertisers in these fields bid heavily to show ads, driving your RPM up to $10–$30. At $20 RPM, you only need 50,000 views to make $1,000.
-* **The Retention Curve:** The drop-off in viewer attention occurs mostly in the first 5–10 seconds. We counter this drop-off using a structured script template that leads with a powerful hook (fear or desire), followed by a core problem, a step-by-step solve, and periodic **pattern interrupts** (visual changes or audio SFX) every 3-5 seconds.
+* **The Retention Curve:** Most viewers hit the exit button within the first 5–10 seconds — that's the sharpest drop in how long people keep watching. We fight this by leading the script with a powerful hook (fear or desire), followed by a core problem, a step-by-step solve, and **pattern interrupts** (visual changes or audio SFX) every 3–5 seconds to restart attention.
 
 ---
 

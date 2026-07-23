@@ -10,7 +10,7 @@
 
 The single biggest hurdle in building a virtual influencer or a consistent brand spokesperson is **face drift**. If you write a prompt for a character in a bedroom, and then in an office, text-to-image models (like Midjourney or DALL-E) will output two different-looking people. The hair length changes, the facial symmetry shifts, and the clothing varies. 
 
-If your character looks like a different person in every post, your audience will not build an emotional connection. The illusion of a real person is broken, and you cannot sell brand sponsorships.
+If your character looks like a different person in every post, your audience will not build an emotional connection. The illusion of a real person is broken, and you cannot sell brand sponsorships. (Think of it this way: if a real influencer changed their hair colour, eye colour, and face shape between every Instagram post, you'd assume it was a different account entirely — AI characters suffer the same trust collapse.)
 
 To build a viable virtual influencer, you must implement a structured prompting system and face-conditioning pipeline that locks in your character's facial features, hair, and wardrobe across multiple scenes.
 

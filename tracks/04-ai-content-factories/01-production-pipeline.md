@@ -23,7 +23,7 @@ Idea  ──►  Script  ──►  Voiceover  ──►  Visuals  ──►  As
 ```
 
 By organizing your work into stations, you achieve:
-* **Unidirectional Flow:** You never write or modify a script *after* voiceover generation is complete. You never generate new visual assets *after* editing is complete.
+* **Unidirectional Flow:** You never write or modify a script *after* voiceover generation is complete. You never generate new visual assets *after* editing is complete. Work only moves forward through the pipeline — never backward.
 * **Station Specialization:** Each stage has strict input and output criteria, preventing unfinished work from clogging down-line editors.
 * **Standardized Deliverables:** Export files are checked against strict technical parameters (resolution, codecs, audio thresholds) before delivery to avoid revisions.
 

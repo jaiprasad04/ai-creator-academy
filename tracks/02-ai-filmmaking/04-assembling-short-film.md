@@ -37,7 +37,7 @@ To fix slight shifts in color grading between different generations, you apply a
 ## Do It
 
 ### Step 1: Organize Your Project Timeline
-Import your generated clips into an NLE editing program (e.g., DaVinci Resolve, Premiere Pro, or CapCut). Lay them out in order on your main video track (V1). Trim any visual glitches that occur at the very beginning or end of a clip (video models often dissolve or warp in the final half-second).
+Import your generated clips into an NLE (Non-Linear Editor — a video editing program that lets you arrange and cut clips on a timeline) such as DaVinci Resolve, Premiere Pro, or CapCut. Lay them out in order on your main video track (V1). Trim any visual glitches that occur at the very beginning or end of a clip (video models often dissolve or warp in the final half-second).
 
 ### Step 2: Generate the Voiceover Narration
 Use a high-quality TTS or voice-cloning API (like ElevenLabs).
