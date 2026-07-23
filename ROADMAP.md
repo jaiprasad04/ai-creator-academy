@@ -91,12 +91,12 @@ Status key: ✅ live · 🚧 in progress · ⬜ coming soon
 | 2 | Pricing Against Traditional Staging | ✅ |
 | 3 | Selling to Realtors & Agencies | ✅ |
 
-## Track 10 — AI Headshots & Portraits ⬜
+## Track 10 — AI Headshots & Portraits ✅
 
 | # | Module | Status |
 |---|---|---|
-| 1 | Consistent Headshot Generation | ⬜ |
-| 2 | Standing Out Against Fiverr Competition | ⬜ |
+| 1 | Consistent Headshot Generation | ✅ |
+| 2 | Standing Out Against Fiverr Competition | ✅ |
 
 ## Track 11 — AI Print-on-Demand & Merch Design ⬜
 
