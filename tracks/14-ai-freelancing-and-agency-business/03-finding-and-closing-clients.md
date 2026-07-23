@@ -8,7 +8,7 @@
 
 The biggest mistake new AI creators make is pitching local consumer businesses (restaurants, hair salons, local gyms) that have zero budget ($200–$500 max). 
 
-To build a high-margin $20k+/month agency, you must target **high-LTV B2B clients** who already spend $20,000+ per quarter on traditional media production:
+To build a high-margin $20k+/month agency, you must target **high-LTV B2B clients** (LTV = Lifetime Value — the total revenue a client generates across their entire relationship with you, not just one project) who already spend $20,000+ per quarter on traditional media production:
 
 ```
                                   HIGH-VALUE CLIENT TARGET MATRIX

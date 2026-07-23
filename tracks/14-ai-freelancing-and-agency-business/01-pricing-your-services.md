@@ -42,6 +42,8 @@ Value-based pricing anchors your fee to the **financial return or baseline savin
 ### Formula for Value-Based Pricing:
 $$\text{Project Fee} = \text{Traditional Market Replacement Cost} \times (25\% - 40\%)$$
 
+> **Plain English:** If traditional production costs the client $28,000, you charge **25–40% of that** — i.e., **$7,000 to $11,200**. You capture a fraction of the value you save them, while the client still pockets the majority of the savings.
+
 ### Real-World Case Study: B2B Corporate Headshots for a 100-Person Tech Company
 1. **Traditional Photography Quote:**
    - On-site photographer day rate: $3,500

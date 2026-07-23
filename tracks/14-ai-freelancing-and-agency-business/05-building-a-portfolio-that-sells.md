@@ -64,7 +64,7 @@ Present clear, quantifiable data tables in your case studies to prove financial 
 
 ## 🌐 Building Interactive Demo Portals
 
-Static PNG images don't convey the quality of state-of-the-art 8k AI renders. Build live interactive web demo portals (using Notion, Webflow, Framer, or simple HTML) featuring **interactive before/after comparison sliders**:
+Static PNG images don't convey the quality of state-of-the-art 8k AI renders. Build live interactive web demo portals (using Notion, Webflow, Framer (a no-code website builder with built-in interactive components), or simple HTML) featuring **interactive before/after comparison sliders**:
 
 ```
 +-----------------------------------------------------------------------------+

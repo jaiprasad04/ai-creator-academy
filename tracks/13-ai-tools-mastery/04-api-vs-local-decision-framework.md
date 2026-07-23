@@ -38,7 +38,7 @@ $$\text{Local GPU Amortization Period} = \frac{\text{GPU Workstation Cost}}{\tex
 | **Upfront Cost** | **$0** (Pay-as-you-go credit model) | **$1,500 – $4,500** hardware investment |
 | **Low-Volume Efficiency** | **Superior** ($5-$20/mo total spend) | Poor (Long payback period) |
 | **High-Volume Economics** | Cost scales linearly with renders | **$0 marginal cost per render** (only electricity) |
-| **Setup Complexity** | Zero infrastructure setup (Simple HTTP POST) | Requires Python, VRAM management, CUDA drivers |
+| **Setup Complexity** | Zero infrastructure setup (Simple HTTP POST) | Requires Python, VRAM management (VRAM = Video RAM, the dedicated memory on your GPU that holds the AI model during generation), and CUDA drivers (CUDA = NVIDIA's software layer that lets your GPU run AI workloads) |
 | **Data Privacy & Security** | Data processed on cloud servers | **100% Offline Air-Gapped Privacy** |
 
 ---

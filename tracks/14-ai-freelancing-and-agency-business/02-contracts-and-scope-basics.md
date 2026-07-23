@@ -13,8 +13,8 @@ Traditional creative contracts assume human labor, manual camera shoots, and cle
 3. **The AI Copyright Ambiguity:** Misunderstandings around U.S. Copyright Office rulings on AI-generated assets and commercial usage guarantees.
 
 To protect your agency margin and sanity, every client relationship must be governed by two legally binding agreements:
-* **Master Services Agreement (MSA):** Sets global legal terms (liability, payment terms, confidentiality, governing law).
-* **Statement of Work (SOW):** Defines specific deliverables, timelines, milestone fees, and strict revision boundaries for a specific project.
+* **Master Services Agreement (MSA):** The overarching legal contract that governs the entire client relationship — covering liability caps, confidentiality, payment terms, and governing law. Signed once per client and applies to all future projects.
+* **Statement of Work (SOW):** A project-specific addendum to the MSA that defines the exact deliverables, milestone dates, revision limits, and fees for a single engagement. A new SOW is signed for each individual project.
 
 ---
 
