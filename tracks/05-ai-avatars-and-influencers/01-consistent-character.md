@@ -62,7 +62,7 @@ If the face in the cafe generation drifts slightly from the master, use the `/z-
 <img src="templates/examples/emma-cafe-consistent.jpg" alt="Face-Swapped Consistent Render" width="220">
 <img src="templates/examples/emma-cafe-motion.gif" alt="Avatar Character Motion Loop (I2V)" width="220">
 </p>
-<p align="center"><sub>Master Avatar (Left) ──► Face-Swapped Output (Center) ──► Image-to-Video Motion (Right) · <a href="templates/examples/emma-cafe-motion.mp4">MP4</a></sub></p>
+<p align="center"><sub>Master Avatar (Left) ──► Face-Swapped Output (Center) ──► Image-to-Video Motion (Right) · Video File: <a href="templates/examples/emma-cafe-motion.mp4">templates/examples/emma-cafe-motion.mp4</a></sub></p>
 
 **Creating "Emma" (Tech Influencer Avatar)**
 

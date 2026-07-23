@@ -62,7 +62,7 @@ Zoom in on the final image and inspect these key areas:
 <br>
 <img src="templates/examples/linen-shirt-motion.gif" alt="Linen Shirt Motion Loop (I2V)" width="360">
 </p>
-<p align="center"><sub>Virtual Try-On Model Image (Top) ──► Image-to-Video Fabric Motion Loop (Bottom) · <a href="templates/examples/linen-shirt-motion.mp4">MP4</a></sub></p>
+<p align="center"><sub>Virtual Try-On Model Image (Top) ──► Image-to-Video Fabric Motion Loop (Bottom) · Video File: <a href="templates/examples/linen-shirt-motion.mp4">templates/examples/linen-shirt-motion.mp4</a></sub></p>
 
 **Linen Shirt Mannequin-to-Model Swap**
 

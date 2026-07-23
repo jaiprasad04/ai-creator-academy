@@ -64,7 +64,7 @@ Save your ideal configurations in the cloning log.
 <img src="templates/examples/voice-studio-setup.jpg" alt="Voice Studio" width="280">
 <img src="templates/examples/voice-studio-clip.gif" alt="Voice Recording Motion (I2V)" width="280">
 </p>
-<p align="center"><sub>Voice Recording Booth Image (Left) ──► Image-to-Video Studio Motion (Right) · <a href="templates/examples/rachel-vocal-cloned.mp3">Cloned MP3</a> · <a href="templates/examples/voice-studio-clip.mp4">Video MP4</a></sub></p>
+<p align="center"><sub>Voice Recording Booth Image (Left) ──► Image-to-Video Studio Motion (Right) · Audio File: <a href="templates/examples/rachel-vocal-cloned.mp3">templates/examples/rachel-vocal-cloned.mp3</a> · Video File: <a href="templates/examples/voice-studio-clip.mp4">templates/examples/voice-studio-clip.mp4</a></sub></p>
 
 **Creating "Arthur" (B2B SaaS Spokesperson)**
 
