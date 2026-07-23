@@ -119,16 +119,16 @@ The only track with no client relationship at all — generate once, license rep
 | 2 | Batch-Generating a Licensable Catalog | ✅ |
 | 3 | Licensing Models & Realistic Passive-Income Expectations | ✅ |
 
-## Track 13 — AI Tools Mastery ⬜
+## Track 13 — AI Tools Mastery ✅
 
 Not tool tutorials — a buyer's guide: which tool for which creative outcome, and why.
 
 | # | Module | Status |
 |---|---|---|
-| 1 | Image Models — Which One for Which Use Case | ⬜ |
-| 2 | Video Models — Which One for Which Use Case | ⬜ |
-| 3 | Voice/Audio Models — Which One for Which Use Case | ⬜ |
-| 4 | API vs. Local: A Decision Framework | ⬜ |
+| 1 | Image Models — Which One for Which Use Case | ✅ |
+| 2 | Video Models — Which One for Which Use Case | ✅ |
+| 3 | Voice/Audio Models — Which One for Which Use Case | ✅ |
+| 4 | API vs. Local: A Decision Framework | ✅ |
 
 ## Track 14 — AI Freelancing & Agency Business ⬜
 
